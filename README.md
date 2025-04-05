@@ -126,12 +126,21 @@ This website provides a clean and classic UI using an orange and white color the
 #### To get this website
 1. [Install git](https://git-scm.com/downloads) in your system (if not installed)
 #### Run these commnds in your terminal 🧑‍💻
-- ```cd Desktop```
+```
+ cd Desktop
+ ```
 
-- ``` git clone https://github.com/shivansh291/Pet-care-website-by-Shivansh-```
+ ```
+git clone https://github.com/shivansh291/Pet-care-website-by-Shivansh-
+```
 
 #### Go to desktop your folder 
-#### You can see 👀 the pet care website file 📑 in zip 🤐 format
-#### Unzip this file 😊
+#### You can see 👀 the pet care website folder 📁
 #### Open the folder in VS Code or any code editor
 #### Open index.html and run the file
+
+## License
+This project is licensed under the Apache License 2.0 - see the [LICENSE](./LICENSE) file for details.
+
+## Acknowledgements
+- Bootstrap framework (MIT License)
