@@ -77,6 +77,8 @@ This website provides a clean and classic UI using an orange and white color the
 ├── 📄 price.html
 ├── 📄 service.html
 └── 📄 README.md
+└── 📄 LICENSE
+└── 📄 NOTICE 
 ```
 ---
 
