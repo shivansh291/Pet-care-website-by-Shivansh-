@@ -77,8 +77,8 @@ This website provides a clean and classic UI using an orange and white color the
 ├── 📄 price.html
 ├── 📄 service.html
 └── 📄 README.md
-└── 📄 LICENSE
-└── 📄 NOTICE 
+└── ⚖️ LICENSE
+└── 📝 NOTICE 
 ```
 ---
 
@@ -136,7 +136,7 @@ This website provides a clean and classic UI using an orange and white color the
 git clone https://github.com/shivansh291/Pet-care-website-by-Shivansh-
 ```
 
-#### Go to desktop your folder 
+#### Go to your desktop folder 
 #### You can see 👀 the pet care website folder 📁
 #### Open the folder in VS Code or any code editor
 #### Open index.html and run the file
