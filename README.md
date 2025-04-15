@@ -1,5 +1,4 @@
 # Pet Care Website 😺
-
 This website provides a clean and classic UI using an orange and white color theme. It's an impressive and responsive project tailored for intermediate-level developers.
 
 > **Note:** This is a business-ready website **template** with **frontend only** (no backend functionality).
